@@ -1,0 +1,119 @@
+Designation,Total number of people living in your house including yourself:,Do you have Energy STAR appliances in your home?,Do you use energy efficient light bulbs?,How often is the shower used in your house each day?,How many loads of laundry does your household do each week?,Does everyone in your household turn off the lights when they leave a room empty?,How much of your household is air-conditioned during the summer?,Does your household turn off the TV when they are not watching it?,How many hours are TVs on in your house each day? (Multiply the time by the number of TVs in your house.),"How many of your household's chargers for cell phones, iPods etc remain plugged in when not in use? ",How many hours a day are computer(s) used in your household?,Does your household recycle paper products such as magazines and newspapers?,Do you recycle plastic?,"How many individual servings of wrapped food does your household eat each day? (Such as chips, cookies, candy)",What kind of food does your household eat?,How many times a week does your household eat at a fast food restaurant?,How do you get to the university each day?,How many times a week does your household use a car?
+Student,6 or more,Yes,Yes,3-4 times a day,3-4 times a week,Yes,None of the rooms,Yes,0-3 hours,01-Feb,0-2 hours,Yes,No,01-Mar,Meat included (Non-vegetarian diet),Never,By walk or cycle,10 times
+Student,4,Yes,Yes,1-2 times a day,1-2 times a week,Yes,None of the rooms,Yes,0-3 hours,0,3-5 hours,Yes,No,None,"Vegetables, dairy, eggs (Vegetarian diet)",Once a week,By bus,5 times
+Student,5,Yes,Yes,5-6 times a day,7-8 times a week,Yes,None of the rooms,Yes,7-9 hours,03-Apr,3-5 hours,Yes,Yes,None,Meat included (Non-vegetarian diet),More than twice a week,By bus,5 times
+Student,4,Yes,Yes,3-4 times a day,7-8 times a week,Yes,1-3 rooms,Yes,7-9 hours,5 or more,more than 6 hours,Yes,Yes,01-Mar,Meat included (Non-vegetarian diet),Once a week,By Metro,16 or more times a week
+Student,4,Yes,Yes,1-2 times a day,9 or more times a week,No,1-3 rooms,Yes,0-3 hours,03-Apr,0-2 hours,No,No,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",Once a week,By walk or cycle,5 times
+Student,4,Yes,Yes,3-4 times a day,1-2 times a week,No,None of the rooms,Yes,0-3 hours,01-Feb,more than 6 hours,Yes,Not sure,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",Twice a week,By bus,Never
+Student,4,Yes,Not sure,3-4 times a day,1-2 times a week,Yes,1-3 rooms,Yes,7-9 hours,5 or more,more than 6 hours,Yes,No,04-Jun,"Vegetables, dairy, eggs (Vegetarian diet)",Once a week,By Metro,16 or more times a week
+Student,4,Yes,Yes,1-2 times a day,3-4 times a week,Yes,1-3 rooms,Yes,0-3 hours,03-Apr,more than 6 hours,No,No,None,Meat included (Non-vegetarian diet),Once a week,By Metro,16 or more times a week
+Student,6 or more,Yes,Yes,1-2 times a day,5-6 times a week,No,None of the rooms,No,4-6 hours,5 or more,more than 6 hours,Yes,No,01-Mar,Just vegetables (Vegan diet),Once a week,By car,16 or more times a week
+Student,2,No,Yes,1-2 times a day,1-2 times a week,Yes,None of the rooms,Yes,7-9 hours,01-Feb,0-2 hours,No,Yes,None,Meat included (Non-vegetarian diet),Never,By walk or cycle,Never
+Student,4,Yes,Yes,5-6 times a day,5-6 times a week,No,1-3 rooms,Yes,0-3 hours,03-Apr,more than 6 hours,Not sure,Yes,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",Once a week,By Metro,15 times
+Student,4,Yes,Yes,3-4 times a day,1-2 times a week,Yes,1-3 rooms,Yes,4-6 hours,0,0-2 hours,Yes,Yes,01-Mar,Meat included (Non-vegetarian diet),Once a week,By walk or cycle,Never
+Student,4,Yes,No,3-4 times a day,7-8 times a week,No,1-3 rooms,Yes,0-3 hours,03-Apr,0-2 hours,Not sure,Yes,04-Jun,Meat included (Non-vegetarian diet),Once a week,By walk or cycle,16 or more times a week
+Student,3,Yes,Yes,1-2 times a day,3-4 times a week,Yes,None of the rooms,Yes,0-3 hours,5 or more,3-5 hours,Yes,Yes,01-Mar,Meat included (Non-vegetarian diet),Once a week,By Metro,5 times
+Student,3,Yes,Yes,1-2 times a day,7-8 times a week,Yes,None of the rooms,Yes,4-6 hours,01-Feb,0-2 hours,Yes,No,01-Mar,Just vegetables (Vegan diet),Never,By walk or cycle,5 times
+Student,3,Yes,No,3-4 times a day,1-2 times a week,Yes,1-3 rooms,Yes,4-6 hours,03-Apr,more than 6 hours,Yes,Yes,04-Jun,Meat included (Non-vegetarian diet),Once a week,By car,16 or more times a week
+Student,4,Yes,Not sure,1-2 times a day,3-4 times a week,No,None of the rooms,Yes,4-6 hours,01-Feb,0-2 hours,Yes,Yes,01-Mar,Meat included (Non-vegetarian diet),Once a week,By bus,15 times
+Student,6 or more,Yes,Yes,5-6 times a day,1-2 times a week,Yes,None of the rooms,Yes,4-6 hours,01-Feb,more than 6 hours,Yes,Not sure,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",Once a week,By Metro,15 times
+Student,5,Yes,Yes,3-4 times a day,3-4 times a week,Yes,1-3 rooms,Yes,0-3 hours,0,0-2 hours,Yes,Yes,01-Mar,Just vegetables (Vegan diet),Never,By bus,5 times
+Student,5,Yes,Yes,5-6 times a day,9 or more times a week,Yes,4 or more rooms,Yes,7-9 hours,03-Apr,more than 6 hours,Yes,Yes,01-Mar,Meat included (Non-vegetarian diet),Once a week,By walk or cycle,10 times
+Student,4,Yes,No,1-2 times a day,3-4 times a week,Yes,None of the rooms,Yes,4-6 hours,03-Apr,more than 6 hours,Yes,Not sure,04-Jun,Meat included (Non-vegetarian diet),Once a week,By bus,10 times
+Student,3,Yes,Yes,1-2 times a day,3-4 times a week,Yes,None of the rooms,Yes,4-6 hours,0,0-2 hours,No,No,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",Once a week,By Metro,5 times
+Student,4,Yes,Yes,5-6 times a day,5-6 times a week,Yes,None of the rooms,Yes,0-3 hours,01-Feb,0-2 hours,Yes,Yes,01-Mar,Meat included (Non-vegetarian diet),More than twice a week,By car,5 times
+Faculty,3,Yes,Yes,1-2 times a day,3-4 times a week,Yes,None of the rooms,Yes,0-3 hours,0,0-2 hours,No,Yes,None,"Vegetables, dairy, eggs (Vegetarian diet)",Once a week,By Metro,Never
+Student,6 or more,Yes,Yes,1-2 times a day,3-4 times a week,Yes,None of the rooms,Yes,7-9 hours,01-Feb,0-2 hours,No,No,01-Mar,Meat included (Non-vegetarian diet),Once a week,By walk or cycle,5 times
+Student,4,Yes,Yes,3-4 times a day,3-4 times a week,Yes,None of the rooms,Yes,7-9 hours,01-Feb,3-5 hours,Not sure,Not sure,04-Jun,Meat included (Non-vegetarian diet),Never,By Metro,Never
+Student,3,Not sure,Yes,1-2 times a day,7-8 times a week,No,None of the rooms,Yes,0-3 hours,01-Feb,3-5 hours,Yes,Yes,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",Once a week,By bus,16 or more times a week
+Student,5,Yes,Yes,5-6 times a day,7-8 times a week,Yes,4 or more rooms,Yes,4-6 hours,01-Feb,more than 6 hours,Yes,Yes,01-Mar,Meat included (Non-vegetarian diet),Once a week,By Metro,5 times
+Student,3,Yes,Yes,3-4 times a day,5-6 times a week,Yes,1-3 rooms,Yes,7-9 hours,0,3-5 hours,Yes,Yes,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",Once a week,By bus,5 times
+Student,4,Not sure,Not sure,1-2 times a day,3-4 times a week,Yes,None of the rooms,Yes,4-6 hours,03-Apr,3-5 hours,Not sure,Not sure,04-Jun,"Vegetables, dairy, eggs (Vegetarian diet)",Twice a week,By walk or cycle,5 times
+Student,3,Yes,Not sure,3-4 times a day,5-6 times a week,Yes,4 or more rooms,No,4-6 hours,0,more than 6 hours,Yes,Yes,04-Jun,Meat included (Non-vegetarian diet),Once a week,By walk or cycle,5 times
+Faculty,5,Yes,Yes,3-4 times a day,3-4 times a week,No,None of the rooms,Yes,0-3 hours,03-Apr,3-5 hours,Yes,No,01-Mar,Meat included (Non-vegetarian diet),Never,By car,Never
+Student,3,Yes,Yes,5-6 times a day,3-4 times a week,Yes,1-3 rooms,Yes,7-9 hours,01-Feb,0-2 hours,Yes,Not sure,01-Mar,Meat included (Non-vegetarian diet),Once a week,By bus,5 times
+Student,3,Yes,Yes,1-2 times a day,1-2 times a week,Yes,None of the rooms,Yes,4-6 hours,0,3-5 hours,Yes,Yes,None,"Vegetables, dairy, eggs (Vegetarian diet)",Once a week,By Metro,5 times
+Student,4,Yes,Yes,1-2 times a day,3-4 times a week,Yes,None of the rooms,Yes,4-6 hours,01-Feb,0-2 hours,Yes,Yes,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",Once a week,By walk or cycle,Never
+Student,4,Yes,Yes,1-2 times a day,3-4 times a week,Yes,None of the rooms,Yes,0-3 hours,03-Apr,0-2 hours,Yes,Yes,01-Mar,Meat included (Non-vegetarian diet),Once a week,By bus,10 times
+Student,4,Yes,Yes,1-2 times a day,3-4 times a week,Yes,None of the rooms,Yes,0-3 hours,01-Feb,3-5 hours,Yes,No,None,Meat included (Non-vegetarian diet),Once a week,By bus,5 times
+Student,3,Yes,Yes,3-4 times a day,1-2 times a week,Yes,None of the rooms,Yes,4-6 hours,03-Apr,3-5 hours,Yes,Yes,01-Mar,Meat included (Non-vegetarian diet),Twice a week,By Metro,10 times
+Student,1,No,Yes,1-2 times a day,1-2 times a week,Yes,None of the rooms,Yes,0-3 hours,0,more than 6 hours,Not sure,Not sure,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",More than twice a week,By walk or cycle,5 times
+Student,4,Yes,Yes,1-2 times a day,3-4 times a week,Yes,None of the rooms,Yes,4-6 hours,01-Feb,3-5 hours,Yes,Not sure,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",Once a week,By bus,Never
+Student,4,Yes,Yes,1-2 times a day,1-2 times a week,Yes,None of the rooms,Yes,0-3 hours,01-Feb,more than 6 hours,Not sure,Not sure,01-Mar,Meat included (Non-vegetarian diet),Once a week,By bus,Never
+Student,3,Yes,Not sure,1-2 times a day,1-2 times a week,No,None of the rooms,Yes,4-6 hours,03-Apr,more than 6 hours,Yes,Not sure,01-Mar,Just vegetables (Vegan diet),Twice a week,By Metro,Never
+Student,6 or more,Yes,Yes,1-2 times a day,1-2 times a week,Yes,1-3 rooms,Yes,0-3 hours,0,3-5 hours,Yes,No,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",Once a week,By Metro,5 times
+Student,4,Yes,Not sure,3-4 times a day,1-2 times a week,No,None of the rooms,No,4-6 hours,01-Feb,0-2 hours,Yes,No,04-Jun,Meat included (Non-vegetarian diet),Once a week,By walk or cycle,16 or more times a week
+Student,4,Yes,Yes,5-6 times a day,3-4 times a week,No,None of the rooms,Yes,4-6 hours,01-Feb,3-5 hours,Yes,Yes,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",Once a week,By bus,5 times
+Student,4,Yes,Yes,3-4 times a day,3-4 times a week,Yes,None of the rooms,Yes,4-6 hours,01-Feb,3-5 hours,Yes,Yes,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",Once a week,By bus,5 times
+Student,4,No,Yes,1-2 times a day,7-8 times a week,Yes,None of the rooms,Yes,4-6 hours,0,3-5 hours,No,Not sure,None,Just vegetables (Vegan diet),Twice a week,By walk or cycle,5 times
+Student,4,Yes,Yes,3-4 times a day,3-4 times a week,Yes,1-3 rooms,Yes,0-3 hours,01-Feb,more than 6 hours,Yes,No,None,Meat included (Non-vegetarian diet),Once a week,By walk or cycle,10 times
+Student,6 or more,Not sure,Yes,7 or more times in one day,1-2 times a week,Yes,1-3 rooms,Yes,4-6 hours,0,0-2 hours,Yes,Not sure,01-Mar,Meat included (Non-vegetarian diet),Never,By walk or cycle,Never
+Student,4,No,Yes,3-4 times a day,1-2 times a week,Yes,1-3 rooms,Yes,4-6 hours,01-Feb,0-2 hours,Yes,Yes,None,"Vegetables, dairy, eggs (Vegetarian diet)",Never,By walk or cycle,Never
+Student,5,Yes,Yes,3-4 times a day,5-6 times a week,Yes,None of the rooms,Yes,0-3 hours,0,0-2 hours,Yes,Not sure,None,Meat included (Non-vegetarian diet),Never,By Metro,15 times
+Student,4,Yes,Yes,3-4 times a day,3-4 times a week,Yes,1-3 rooms,Yes,0-3 hours,03-Apr,more than 6 hours,Yes,Not sure,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",Once a week,By Metro,15 times
+Student,5,Yes,Yes,1-2 times a day,1-2 times a week,Yes,1-3 rooms,Yes,0-3 hours,01-Feb,3-5 hours,Yes,Not sure,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",Once a week,By bus,5 times
+Student,3,Yes,Yes,1-2 times a day,3-4 times a week,Yes,1-3 rooms,Yes,0-3 hours,01-Feb,3-5 hours,Yes,Not sure,01-Mar,Meat included (Non-vegetarian diet),Once a week,By walk or cycle,5 times
+Student,4,Yes,Yes,5-6 times a day,3-4 times a week,Yes,1-3 rooms,Yes,0-3 hours,03-Apr,3-5 hours,No,Yes,01-Mar,Meat included (Non-vegetarian diet),Once a week,By walk or cycle,5 times
+Student,5,Not sure,Yes,5-6 times a day,3-4 times a week,Yes,None of the rooms,No,4-6 hours,01-Feb,0-2 hours,Yes,No,None,Meat included (Non-vegetarian diet),Never,By Metro,10 times
+Student,4,Yes,Not sure,1-2 times a day,3-4 times a week,Yes,None of the rooms,No,7-9 hours,01-Feb,0-2 hours,Yes,Not sure,None,"Vegetables, dairy, eggs (Vegetarian diet)",Never,By Metro,Never
+Student,4,Yes,Yes,3-4 times a day,5-6 times a week,Yes,1-3 rooms,Yes,0-3 hours,03-Apr,0-2 hours,Yes,No,04-Jun,"Vegetables, dairy, eggs (Vegetarian diet)",Once a week,By walk or cycle,16 or more times a week
+Student,4,Yes,Yes,1-2 times a day,3-4 times a week,Yes,None of the rooms,Yes,0-3 hours,01-Feb,0-2 hours,Yes,Yes,01-Mar,Meat included (Non-vegetarian diet),Once a week,By Metro,5 times
+Student,4,Yes,Yes,1-2 times a day,1-2 times a week,No,None of the rooms,Yes,4-6 hours,01-Feb,3-5 hours,Yes,Not sure,None,Just vegetables (Vegan diet),Once a week,By Metro,5 times
+Student,4,Yes,Yes,3-4 times a day,1-2 times a week,Yes,1-3 rooms,Yes,7-9 hours,01-Feb,3-5 hours,Not sure,Not sure,None,"Vegetables, dairy, eggs (Vegetarian diet)",Once a week,By walk or cycle,Never
+Student,6 or more,Yes,Yes,3-4 times a day,1-2 times a week,No,None of the rooms,Yes,4-6 hours,0,3-5 hours,Yes,Not sure,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",Never,By walk or cycle,5 times
+Student,3,Yes,Yes,3-4 times a day,1-2 times a week,Yes,None of the rooms,Yes,7-9 hours,01-Feb,0-2 hours,Yes,Yes,04-Jun,"Vegetables, dairy, eggs (Vegetarian diet)",More than twice a week,By bus,5 times
+Student,3,Yes,Yes,1-2 times a day,5-6 times a week,Yes,1-3 rooms,Yes,4-6 hours,01-Feb,0-2 hours,Yes,Yes,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",Once a week,By Metro,5 times
+Student,3,Yes,No,1-2 times a day,3-4 times a week,Yes,None of the rooms,Yes,0-3 hours,0,0-2 hours,No,Not sure,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",Once a week,By Metro,Never
+Student,4,Yes,Yes,3-4 times a day,7-8 times a week,Yes,4 or more rooms,Yes,0-3 hours,0,3-5 hours,Yes,Yes,01-Mar,Meat included (Non-vegetarian diet),Once a week,By Metro,16 or more times a week
+Student,3,Yes,Yes,3-4 times a day,1-2 times a week,No,1-3 rooms,No,4-6 hours,03-Apr,3-5 hours,Yes,Yes,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",More than twice a week,By car,10 times
+Student,4,Yes,Yes,5-6 times a day,5-6 times a week,Yes,1-3 rooms,Yes,4-6 hours,0,3-5 hours,No,No,01-Mar,Meat included (Non-vegetarian diet),Never,By walk or cycle,Never
+Student,3,Yes,Yes,5-6 times a day,1-2 times a week,Yes,None of the rooms,No,4-6 hours,01-Feb,more than 6 hours,Yes,Not sure,None,Meat included (Non-vegetarian diet),Once a week,By Metro,Never
+Student,4,Yes,Yes,1-2 times a day,3-4 times a week,Yes,None of the rooms,Yes,0-3 hours,01-Feb,0-2 hours,Yes,Not sure,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",Once a week,By bus,5 times
+Student,5,Yes,Yes,1-2 times a day,7-8 times a week,Yes,None of the rooms,Yes,7-9 hours,01-Feb,3-5 hours,Yes,No,04-Jun,Just vegetables (Vegan diet),Once a week,By bus,5 times
+Student,4,Yes,Not sure,1-2 times a day,1-2 times a week,Yes,None of the rooms,Yes,4-6 hours,01-Feb,0-2 hours,Not sure,Not sure,01-Mar,Meat included (Non-vegetarian diet),Once a week,By walk or cycle,5 times
+Student,3,Yes,Yes,1-2 times a day,7-8 times a week,No,None of the rooms,No,0-3 hours,03-Apr,3-5 hours,No,No,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",Once a week,By Metro,5 times
+Student,4,Yes,Yes,3-4 times a day,3-4 times a week,Yes,None of the rooms,Yes,0-3 hours,5 or more,more than 6 hours,Yes,No,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",Twice a week,By car,10 times
+Student,3,Yes,Yes,3-4 times a day,3-4 times a week,Yes,None of the rooms,No,0-3 hours,03-Apr,0-2 hours,Yes,Not sure,None,"Vegetables, dairy, eggs (Vegetarian diet)",Once a week,By Metro,Never
+Student,3,Yes,Yes,3-4 times a day,9 or more times a week,Yes,1-3 rooms,Yes,0-3 hours,0,more than 6 hours,Yes,Yes,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",Once a week,By Metro,5 times
+Student,6 or more,Yes,Yes,5-6 times a day,9 or more times a week,No,1-3 rooms,Yes,4-6 hours,5 or more,more than 6 hours,No,Yes,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",Never,By Metro,15 times
+Student,3,Yes,Yes,3-4 times a day,3-4 times a week,Yes,None of the rooms,Yes,4-6 hours,01-Feb,3-5 hours,Yes,Yes,None,"Vegetables, dairy, eggs (Vegetarian diet)",Once a week,By car,5 times
+Faculty,3,No,Yes,3-4 times a day,3-4 times a week,Yes,None of the rooms,Yes,4-6 hours,0,3-5 hours,Yes,Yes,01-Mar,Meat included (Non-vegetarian diet),Never,By Metro,5 times
+Student,5,Yes,Yes,1-2 times a day,3-4 times a week,Yes,None of the rooms,Yes,7-9 hours,01-Feb,more than 6 hours,Yes,Yes,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",Once a week,By car,10 times
+Student,4,Yes,Yes,5-6 times a day,7-8 times a week,Yes,None of the rooms,Yes,7-9 hours,5 or more,3-5 hours,Yes,No,01-Mar,Meat included (Non-vegetarian diet),Once a week,By Metro,5 times
+Student,3,Yes,Yes,3-4 times a day,1-2 times a week,No,None of the rooms,Yes,0-3 hours,0,0-2 hours,Yes,Yes,01-Mar,Meat included (Non-vegetarian diet),Once a week,By Metro,16 or more times a week
+Student,4,Yes,Yes,1-2 times a day,1-2 times a week,Yes,1-3 rooms,Yes,4-6 hours,03-Apr,more than 6 hours,Yes,No,01-Mar,Meat included (Non-vegetarian diet),Once a week,By car,5 times
+Student,4,Yes,Yes,1-2 times a day,3-4 times a week,Yes,1-3 rooms,Yes,4-6 hours,03-Apr,3-5 hours,Yes,Not sure,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",Once a week,By walk or cycle,16 or more times a week
+Student,4,Yes,Not sure,5-6 times a day,9 or more times a week,Yes,1-3 rooms,Yes,4-6 hours,0,0-2 hours,Not sure,Not sure,01-Mar,Just vegetables (Vegan diet),Once a week,By Metro,5 times
+Student,6 or more,No,Not sure,1-2 times a day,1-2 times a week,Yes,None of the rooms,Yes,4-6 hours,01-Feb,0-2 hours,Yes,Yes,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",Never,By bus,Never
+Student,4,No,Yes,3-4 times a day,1-2 times a week,Yes,1-3 rooms,Yes,0-3 hours,03-Apr,0-2 hours,Yes,Yes,01-Mar,Meat included (Non-vegetarian diet),Once a week,By walk or cycle,Never
+Student,5,Yes,Not sure,5-6 times a day,1-2 times a week,Yes,None of the rooms,Yes,0-3 hours,03-Apr,0-2 hours,Yes,Yes,04-Jun,Meat included (Non-vegetarian diet),Once a week,By walk or cycle,10 times
+Student,3,Yes,Not sure,3-4 times a day,3-4 times a week,No,1-3 rooms,No,4-6 hours,03-Apr,more than 6 hours,Yes,No,01-Mar,Meat included (Non-vegetarian diet),Once a week,By Metro,5 times
+Student,4,No,Yes,1-2 times a day,9 or more times a week,Yes,1-3 rooms,No,4-6 hours,03-Apr,3-5 hours,Yes,Not sure,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",Twice a week,By car,15 times
+Student,6 or more,Yes,Yes,7 or more times in one day,7-8 times a week,No,None of the rooms,Yes,0-3 hours,5 or more,more than 6 hours,Yes,Yes,04-Jun,Meat included (Non-vegetarian diet),Once a week,By Metro,10 times
+Student,6 or more,Yes,Yes,1-2 times a day,3-4 times a week,Yes,1-3 rooms,Yes,0-3 hours,5 or more,more than 6 hours,Yes,Not sure,01-Mar,Meat included (Non-vegetarian diet),Twice a week,By Metro,5 times
+Student,6 or more,Yes,Yes,1-2 times a day,1-2 times a week,Yes,1-3 rooms,Yes,7-9 hours,01-Feb,0-2 hours,Yes,Yes,01-Mar,Meat included (Non-vegetarian diet),Once a week,By car,5 times
+Student,6 or more,Yes,Not sure,3-4 times a day,3-4 times a week,No,1-3 rooms,Yes,7-9 hours,01-Feb,more than 6 hours,Not sure,Not sure,01-Mar,Meat included (Non-vegetarian diet),Once a week,By Metro,5 times
+Student,5,Yes,Yes,1-2 times a day,1-2 times a week,Yes,None of the rooms,No,4-6 hours,0,3-5 hours,No,No,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",Once a week,By car,5 times
+Student,4,Yes,Yes,3-4 times a day,3-4 times a week,Yes,1-3 rooms,Yes,4-6 hours,0,0-2 hours,Not sure,No,01-Mar,Meat included (Non-vegetarian diet),Twice a week,By walk or cycle,Never
+Student,3,No,Yes,1-2 times a day,3-4 times a week,Yes,None of the rooms,Yes,0-3 hours,01-Feb,3-5 hours,Yes,Yes,01-Mar,Meat included (Non-vegetarian diet),Once a week,By Metro,5 times
+Student,4,Yes,Yes,7 or more times in one day,3-4 times a week,Yes,None of the rooms,Yes,4-6 hours,03-Apr,3-5 hours,Yes,Yes,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",Once a week,By Metro,10 times
+Student,5,Yes,Yes,3-4 times a day,3-4 times a week,Yes,None of the rooms,Yes,4-6 hours,01-Feb,more than 6 hours,Yes,Yes,None,"Vegetables, dairy, eggs (Vegetarian diet)",Once a week,By Metro,5 times
+Student,5,Yes,Yes,1-2 times a day,3-4 times a week,Yes,1-3 rooms,Yes,4-6 hours,03-Apr,3-5 hours,Yes,Not sure,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",More than twice a week,By bus,16 or more times a week
+Student,6 or more,Yes,Yes,5-6 times a day,5-6 times a week,Yes,1-3 rooms,Yes,More than 10 hours,0,0-2 hours,Yes,No,01-Mar,Meat included (Non-vegetarian diet),Once a week,By Metro,5 times
+Student,4,Yes,Yes,3-4 times a day,3-4 times a week,Yes,4 or more rooms,Yes,More than 10 hours,5 or more,3-5 hours,Yes,Yes,01-Mar,Meat included (Non-vegetarian diet),Twice a week,By Metro,16 or more times a week
+Student,6 or more,No,Not sure,1-2 times a day,5-6 times a week,No,None of the rooms,Yes,0-3 hours,01-Feb,3-5 hours,Yes,Yes,01-Mar,Meat included (Non-vegetarian diet),Never,By Metro,5 times
+Student,4,Yes,Yes,1-2 times a day,1-2 times a week,Yes,None of the rooms,Yes,0-3 hours,03-Apr,0-2 hours,Yes,Not sure,None,Just vegetables (Vegan diet),Never,By walk or cycle,5 times
+Student,4,Yes,Yes,3-4 times a day,5-6 times a week,No,1-3 rooms,Yes,4-6 hours,03-Apr,more than 6 hours,Yes,Yes,01-Mar,Meat included (Non-vegetarian diet),Once a week,By Metro,10 times
+Student,3,Yes,Yes,1-2 times a day,1-2 times a week,Yes,None of the rooms,Yes,0-3 hours,01-Feb,0-2 hours,Not sure,Not sure,01-Mar,Meat included (Non-vegetarian diet),Never,By walk or cycle,5 times
+Student,4,Yes,Not sure,1-2 times a day,3-4 times a week,Yes,None of the rooms,No,0-3 hours,0,more than 6 hours,Yes,Not sure,None,Meat included (Non-vegetarian diet),Never,By walk or cycle,Never
+Student,6 or more,Yes,Yes,3-4 times a day,7-8 times a week,Yes,None of the rooms,Yes,More than 10 hours,5 or more,more than 6 hours,Not sure,Not sure,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",More than twice a week,By Metro,16 or more times a week
+Student,5,Yes,Yes,3-4 times a day,5-6 times a week,Yes,1-3 rooms,Yes,4-6 hours,0,0-2 hours,No,No,01-Mar,Meat included (Non-vegetarian diet),More than twice a week,By Metro,Never
+Student,4,Yes,Yes,3-4 times a day,5-6 times a week,Yes,1-3 rooms,Yes,7-9 hours,0,more than 6 hours,Yes,Yes,01-Mar,Meat included (Non-vegetarian diet),Once a week,By car,5 times
+Student,3,Yes,Yes,3-4 times a day,3-4 times a week,Yes,None of the rooms,Yes,0-3 hours,01-Feb,3-5 hours,Yes,Yes,01-Mar,Meat included (Non-vegetarian diet),Once a week,By bus,5 times
+Student,3,Yes,Yes,1-2 times a day,3-4 times a week,Yes,1-3 rooms,Yes,0-3 hours,03-Apr,0-2 hours,No,No,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",Once a week,By bus,Never
+Student,4,Yes,Yes,3-4 times a day,5-6 times a week,Yes,None of the rooms,Yes,4-6 hours,0,0-2 hours,Yes,Yes,None,Just vegetables (Vegan diet),Once a week,By Metro,Never
+Student,4,Yes,Yes,3-4 times a day,3-4 times a week,Yes,None of the rooms,Yes,0-3 hours,5 or more,more than 6 hours,Yes,Not sure,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",Twice a week,By car,15 times
+Student,5,Yes,Yes,5-6 times a day,3-4 times a week,Yes,1-3 rooms,Yes,0-3 hours,01-Feb,3-5 hours,Yes,Yes,01-Mar,Meat included (Non-vegetarian diet),Once a week,By bus,5 times
+Student,2,Not sure,No,1-2 times a day,1-2 times a week,No,None of the rooms,Yes,0-3 hours,5 or more,0-2 hours,Yes,No,01-Mar,"Vegetables, dairy, eggs (Vegetarian diet)",Once a week,By walk or cycle,Never
+Student,4,Yes,Yes,3-4 times a day,1-2 times a week,Yes,1-3 rooms,Yes,4-6 hours,5 or more,3-5 hours,Not sure,Not sure,01-Mar,Meat included (Non-vegetarian diet),Twice a week,By Metro,5 times
+Student,3,Yes,Yes,7 or more times in one day,3-4 times a week,Yes,1-3 rooms,Yes,4-6 hours,01-Feb,3-5 hours,Yes,Not sure,None,"Vegetables, dairy, eggs (Vegetarian diet)",Once a week,By walk or cycle,10 times
